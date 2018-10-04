@@ -22,18 +22,17 @@ Dog Party
 
 #### Specifications
 
-####Working with the terminal-
-*using the terminal to create a directory to hold the html and css files
-*Inside the created directory create another directory for the images
-*Using the terminal create the html and css files
+#### Working with the terminal-
+* using the terminal to create a directory to hold the html and css files
+* Inside the created directory create another directory for the images
+* Using the terminal create the html and css files
 
-####Working with html and css-
-*start with working with html using semantic tags and creating a clean structure
-*style with css to make the site like the image
+#### Working with html and css-
+* start with working with html using semantic tags and creating a clean structure
+* style with css to make the site like the image
 
-####Sharing all the hard work- 
-*create a ssh key
-*create a README
-*share the site on github for the world to see
-# DOG-PARTY
-# DOG-PARTY
+#### Sharing all the hard work- 
+* create a ssh key
+* create a README
+* share the site on github for the world to see
+
