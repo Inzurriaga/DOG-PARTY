@@ -2,7 +2,7 @@
 
 ## Original photo
 
-![](dog-image.png)
+![](dog-party.png)
 
 ## Screenshot of my site
 
